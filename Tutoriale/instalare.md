@@ -1,8 +1,5 @@
 # Configurare mediu de lucru
 
-- [Python](#python)
-- [Visual Studio Code](#visual-studio-code)
-
 ## Python
 
 Videoclipuri cu instrucțiuni de instalare:
