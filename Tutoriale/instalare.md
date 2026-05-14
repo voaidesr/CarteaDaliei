@@ -2,7 +2,11 @@
 
 ## Python
 
-Videoclipuri cu instrucțiuni de instalare:
+Instrucțiuni de instalare (în română):
+
+- [Windows](https://adymedia.ro/blog/cum-sa-instalati-python-pe-windows-11-un-ghid-pas-cu-pas-pentru-incepatori/).
+
+Videoclipuri cu instrucțiuni de instalare (în engleză):
 
 - [Windows](https://www.youtube.com/watch?v=Qg05y10APwA)
 - [MacOS](https://www.youtube.com/watch?v=VJjeMdl6yWA)
